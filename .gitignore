@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and large outputs
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+outputs/
+
+# Datasets
+data/
+datasets/
+OCT2017/
