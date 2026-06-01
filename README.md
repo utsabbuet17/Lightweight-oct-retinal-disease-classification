@@ -18,7 +18,7 @@ The notebook is associated with the following paper:
 ## What this repository contains
 
 - A baseline PyTorch implementation for OCT image classification.
-- Human-readable markdown explanations added around the original code cells.
+- Markdown explanations added around the original code cells.
 
 
 ## Dataset format
