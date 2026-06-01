@@ -1,6 +1,6 @@
 # Lightweight CNN Baseline for Retinal OCT Disease Classification
 
-This repository provides a simple, reader-friendly baseline notebook for retinal disease classification from Optical Coherence Tomography (OCT) images.
+This repository provides a baseline notebook for retinal disease classification from Optical Coherence Tomography (OCT) images.
 
 The notebook is associated with the following paper:
 
