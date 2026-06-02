@@ -11,7 +11,7 @@ The notebook is associated with the following paper:
 ```text
 .
 ├── notebooks/
-│   └── OCT_Lightweight_CNN_baseline_annotated.ipynb
+│   └── oct-paper-implementation-baseline.ipynb
 ├── README.md
 ```
 
